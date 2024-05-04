@@ -2,7 +2,7 @@
 
 package company.beans;
 
-import company.exception.InvalidAgeException;
+import company.exceptions.InvalidAgeException;
 
 public class Person {
     private String name;
