@@ -1,7 +1,7 @@
 // Main.java
 
 import company.beans.Person;
-import company.exception.InvalidAgeException;
+import company.exceptions.InvalidAgeException;
 
 public class Main {
     public static void main(String[] args) {
