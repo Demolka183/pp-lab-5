@@ -1,3 +1,5 @@
+// company/exception/InvalidAgeException.java
+
 package company.exception;
 
 public class InvalidAgeException extends Exception {
